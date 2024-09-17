@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vidhi Patel</h1>
 <h3 align="center">Cybersecurity Enthusiast | SOC Specialist | Security Researcher from India</h3>
 
-![Vidhi Patel Banner](https://github.com/v3153/v3153/blob/main/Vidhi%20Patel.gif)
+![Vidhi Patel Banner](Vidhi%20Patel.gif)
 
 
 ## 👋 About Me
