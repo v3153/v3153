@@ -13,23 +13,36 @@ I'm always eager to connect with like-minded professionals and contribute to var
 - **Malware Analysis**: Working with tools like **MobSF** and **Malware Bazar** for in-depth analysis and research.
 - **SOC & Incident Response**: Deep understanding of SOC operations, handling incidents, and threat response.
 - **Threat Intelligence**: Keeping up with the latest vulnerabilities, such as my research on **Palo Alto Networks PAN-OS Command Injection Vulnerability (CVE-2024-3400)**.
-- **Salesforce Security**: Leveraging my knowledge to secure cloud applications and environments.
 - **Visual Reconnaissance & CTFs**: Solving complex security challenges like visual reconnaissance for subdomains and network forensics.
 
-## 🌐 Contributions
-- **Medium Blog**: I write in-depth articles on cybersecurity topics like **Supply Chain Attacks**, **Network Forensics**, and **SOC-related incidents**. [Check out my latest posts!](https://medium.com/@vidhipatel)
-- **Let's Defend**: Active contributor, sharing practical insights from **SOC** labs and hands-on experience in defending against real-world threats.
-- **LinkedIn**: Regularly sharing updates, thoughts, and resources on the latest in cybersecurity. [Let's connect!](https://linkedin.com/in/vidhi-patel)
 
-## 🔧 Tools & Technologies
-- **MobSF**, **Malware Bazar**
-- **Cisco Talos**
-- **Salesforce**
-- **Python**, **Bash**
-- **Wireshark**, **Suricata**
+## 📝 Read My Blogs
+- [3CX Supply Chain: Blue Team Lab](https://medium.com/@patelvidhi4288/3cx-supply-chain-blue-team-lab-xxxxxxxxxxxx)  
+- [SOC274: Palo Alto Networks PAN-OS Command Injection Vulnerability](https://medium.com/@patelvidhi4288/soc274-palo-alto-networks-pan-os-command-injection-vulnerability-cve-2024-3400)
 
-## 📫 Get in Touch
-- [LinkedIn](https://linkedin.com/in/vidhi-patel)
-- [Medium Blog](https://medium.com/@vidhipatel)
+## 🛠 Technologies
+
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-black?style=for-the-badge&logo=burp-suite&logoColor=orange)
+![Acunetix](https://img.shields.io/badge/-Acunetix-black?style=for-the-badge&logo=acunetix&logoColor=red)
+![Nessus](https://img.shields.io/badge/-Nessus-black?style=for-the-badge&logo=tenable&logoColor=blue)
+![Metasploit](https://img.shields.io/badge/-Metasploit-black?style=for-the-badge&logo=metasploit)
+![Nmap](https://img.shields.io/badge/-Nmap-black?style=for-the-badge&logo=nmap)
+![Splunk](https://img.shields.io/badge/-Splunk-black?style=for-the-badge&logo=splunk&logoColor=yellow)
+![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=blue)
+![Virustotal](https://img.shields.io/badge/-Virustotal-black?style=for-the-badge&logo=virustotal&logoColor=blue)
+![Joe Sandbox](https://img.shields.io/badge/-Joe%20Sandbox-black?style=for-the-badge&logo=joe-sandbox)
+![Shodan](https://img.shields.io/badge/-Shodan-black?style=for-the-badge&logo=shodan&logoColor=red)
+![MobSF](https://img.shields.io/badge/-MobSF-black?style=for-the-badge&logo=mob-sf)
+![Wazuh](https://img.shields.io/badge/-Wazuh-black?style=for-the-badge&logo=wazuh)
+![Amass](https://img.shields.io/badge/-Amass-black?style=for-the-badge&logo=amass)
+![Hybrid Analysis](https://img.shields.io/badge/-Hybrid%20Analysis-black?style=for-the-badge&logo=hybrid-analysis)
+![Censys](https://img.shields.io/badge/-Censys-black?style=for-the-badge&logo=censys)
+
+## 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/vidhi-patel-197474220/)
+- [Medium](https://medium.com/@patelvidhi4288)
+
+
+
 
 
