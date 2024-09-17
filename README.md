@@ -22,21 +22,17 @@ I'm always eager to connect with like-minded professionals and contribute to var
 
 ## 🛠 Technologies
 
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-black?style=for-the-badge&logo=burp-suite&logoColor=orange)
-![Acunetix](https://img.shields.io/badge/-Acunetix-black?style=for-the-badge&logo=acunetix&logoColor=red)
-![Nessus](https://img.shields.io/badge/-Nessus-black?style=for-the-badge&logo=tenable&logoColor=blue)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-black?style=for-the-badge&logo=metasploit)
 ![Nmap](https://img.shields.io/badge/-Nmap-black?style=for-the-badge&logo=nmap)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-black?style=for-the-badge&logo=burp-suite&logoColor=orange)
+![Acunetix](https://img.shields.io/badge/-Acunetix-black?style=for-the-badge&logo=acunetix&logoColor=red)
 ![Splunk](https://img.shields.io/badge/-Splunk-black?style=for-the-badge&logo=splunk&logoColor=yellow)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=blue)
 ![Virustotal](https://img.shields.io/badge/-Virustotal-black?style=for-the-badge&logo=virustotal&logoColor=blue)
 ![Joe Sandbox](https://img.shields.io/badge/-Joe%20Sandbox-black?style=for-the-badge&logo=joe-sandbox)
 ![Shodan](https://img.shields.io/badge/-Shodan-black?style=for-the-badge&logo=shodan&logoColor=red)
 ![MobSF](https://img.shields.io/badge/-MobSF-black?style=for-the-badge&logo=mob-sf)
-![Wazuh](https://img.shields.io/badge/-Wazuh-black?style=for-the-badge&logo=wazuh)
-![Amass](https://img.shields.io/badge/-Amass-black?style=for-the-badge&logo=amass)
 ![Hybrid Analysis](https://img.shields.io/badge/-Hybrid%20Analysis-black?style=for-the-badge&logo=hybrid-analysis)
-![Censys](https://img.shields.io/badge/-Censys-black?style=for-the-badge&logo=censys)
 
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/vidhi-patel-197474220/)
