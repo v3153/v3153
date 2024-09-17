@@ -1,20 +1,6 @@
-<div style="width:100%; text-align:center; background-color:#1d1f21; padding:20px;">
-  <h1 style="color:white; font-size:36px; animation:slidein 2s;">Hi, I'm <span style="color:#00C853;">Vidhi Patel</span></h1>
-  <p style="color:white; font-size:20px;">Cybersecurity Enthusiast | SOC Specialist | Security Researcher</p>
-</div>
-
-<style>
-@keyframes slidein {
-  from {
-    margin-left: 100%;
-    width: 300%; 
-  }
-  to {
-    margin-left: 0%;
-    width: 100%;
-  }
-}
-</style>
+<h1 align="center">Hi 👋, I'm Vidhi Patel</h1>
+<h3 align="center">Cybersecurity Enthusiast | SOC Specialist | Security Researcher from India</h3>
+![Banner](https://www.canva.com/design/DAGRCOuVkDY/E8QbZ_uKL2smE-9FJCyFKA/watch?utm_content=DAGRCOuVkDY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## 👋 About Me
 I'm Vidhi Patel, a security researcher driven by curiosity and a passion for cyber defense. Specializing in **SOC**, **Incident Response**, and **Threat Intelligence**, I constantly push the boundaries to tackle emerging cyber threats. Whether it's developing tools like **HashSleuth** for malware detection or diving into the latest vulnerabilities, I'm always learning and innovating.
